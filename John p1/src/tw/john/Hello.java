@@ -1,6 +1,6 @@
 package tw.john;
 
-public class John00
+public class Hello
 {
 	public static void main (String[] john)	
 	{
